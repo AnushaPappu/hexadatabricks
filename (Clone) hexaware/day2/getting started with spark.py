@@ -1,4 +1,8 @@
 # Databricks notebook source
+##Introduction to databricks
+
+# COMMAND ----------
+
 ##spark:spark is an empty point to start driver program
 
 # COMMAND ----------
